@@ -27,7 +27,7 @@ $(document).ready(()=>{
             }
     }})
 
-    $.ajax({url: "data/classes.json", success:(data)=>{
+    $.ajax({url: "json/classes.json", success:(data)=>{
         classes = data;
 
             for(let index in classes){
