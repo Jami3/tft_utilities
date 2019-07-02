@@ -1,6 +1,9 @@
 body{
-    background-color: gray;
+    background-color: #7499b8;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
 }
 #item-container img{
     width: 100%;
@@ -12,8 +15,24 @@ ul{
 .header{
     text-align: center;
     font-size: 18pt;
-    color: white;
+    color: deepskyblue;
     text-shadow: black 2px 2px 5px;
+    margin-top: 10px;
+}
+.title{
+    font-size: 28pt;
+    color: dodgerblue;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+.sub-header{
+    text-align: center;
+    font-size: 14pt;
+    color: lightskyblue;
+    text-shadow: black 2px 2px 5px;
+    margin-top; 5px;
+    margin-bottom: 5px;
+
 }
 #lblSearch{
     color: azure;
@@ -36,6 +55,7 @@ ul{
     float: left;
 }
 #origins{
+    margin-top: 0px;
     margin-bottom: 5px;
 }
 #classes{
