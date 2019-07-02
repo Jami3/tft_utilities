@@ -11,7 +11,7 @@ var path = require('path');
 app.use(express.urlencoded())
 app.use('/css', express.static(path.join(__dirname, 'css')))
 app.use('/js', express.static(path.join(__dirname, 'js')))
-app.use('/data', express.static(path.join(__dirname, 'json')))
+app.use('/json', express.static(path.join(__dirname, 'json')))
 app.use('/images', express.static(path.join(__dirname, 'images')))
 
 
