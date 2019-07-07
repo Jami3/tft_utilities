@@ -25,7 +25,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["statikkshiv","phantomdancer"]
   },
   "Ahri": {
     "key": "Ahri",
@@ -53,7 +54,9 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["ludens", "rageblade"]
+    
   },
   "Akali": {
     "key": "Akali",
@@ -81,7 +84,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["shojin","seraphs"]
   },
   "Anivia": {
     "key": "Anivia",
@@ -113,7 +117,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["morellos","deathcap"]
   },
   "Ashe": {
     "key": "Ashe",
@@ -144,7 +149,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["statikkshiv","seraphs"]
   },
   "AurelionSol": {
     "key": "AurelionSol",
@@ -175,7 +181,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["shojin","deathcap"]
   },
   "Blitzcrank": {
     "key": "Blitzcrank",
@@ -206,7 +213,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["dragonsclaw","frozenheart"]
   },
   "Brand": {
     "key": "Brand",
@@ -237,7 +245,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["deathcap","gunblade"]
   },
   "Braum": {
     "key": "Braum",
@@ -268,7 +277,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["zekesherald","zephyr"]
   },
   "Chogath": {
     "key": "Chogath",
@@ -301,7 +311,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["titanic","warmogs"]
   },
   "Darius": {
     "key": "Darius",
@@ -333,7 +344,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["gunblade","locket"]
   },
   "Draven": {
     "key": "Draven",
@@ -364,7 +376,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","rapidfirecannon"]
   },
   "Elise": {
     "key": "Elise",
@@ -396,7 +409,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["statikkshiv","titanic"]
   },
   "Evelynn": {
     "key": "Evelynn",
@@ -429,7 +443,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["ludens","gunblade"]
   },
   "Fiora": {
     "key": "Fiora",
@@ -461,7 +476,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","swordofthedivine"]
   },
   "Gangplank": {
     "key": "Gangplank",
@@ -489,7 +505,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","statikkshiv"]
   },
   "Garen": {
     "key": "Garen",
@@ -522,7 +539,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["guardianangel","warmogs"]
   },
   "Gnar": {
     "key": "Gnar",
@@ -557,7 +575,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","rapidfirecannon"]
   },
   "Graves": {
     "key": "Graves",
@@ -585,7 +604,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","statikkshiv"]
   },
   "Karthus": {
     "key": "Karthus",
@@ -616,7 +636,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["seraphs","deathcap"]
   },
   "Kassadin": {
     "key": "Kassadin",
@@ -647,7 +668,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","cursedblade"]
   },
   "Katarina": {
     "key": "Katarina",
@@ -680,7 +702,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["ludens","gunblade"]
   },
   "Kayle": {
     "key": "Kayle",
@@ -712,7 +735,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["seraphs","redemption"]
   },
   "Kennen": {
     "key": "Kennen",
@@ -744,7 +768,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["statikkshiv","deathcap"]
   },
   "Khazix": {
     "key": "Khazix",
@@ -775,7 +800,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","gunblade"]
   },
   "Kindred": {
     "key": "Kindred",
@@ -806,7 +832,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","seraphs"]
   },
   "Leona": {
     "key": "Leona",
@@ -838,7 +865,8 @@
         "armor": 55,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["frozenheart","locket"]
   },
   "Lissandra": {
     "key": "Lissandra",
@@ -872,7 +900,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["morellos","warmogs"]
   },
   "Lucian": {
     "key": "Lucian",
@@ -906,7 +935,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["infinityedge","rapidfirecannon"]
   },
   "Lulu": {
     "key": "Lulu",
@@ -939,7 +969,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["seraphs","redemption"]
   },
   "MissFortune": {
     "key": "MissFortune",
@@ -970,7 +1001,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["statikkshiv","deathcap"]
   },
   "Mordekaiser": {
     "key": "Mordekaiser",
@@ -1002,7 +1034,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["frozenheart","thornmail"]
   },
   "Morgana": {
     "key": "Morgana",
@@ -1035,7 +1068,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","redemption"]
   },
   "Nidalee": {
     "key": "Nidalee",
@@ -1067,7 +1101,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","rapidfirecannon"]
   },
   "Poppy": {
     "key": "Poppy",
@@ -1100,7 +1135,8 @@
         "armor": 30,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["dragonsclaw","thornmail"]
   },
   "Pyke": {
     "key": "Pyke",
@@ -1132,7 +1168,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["spearofshojin","hush"]
   },
   "RekSai": {
     "key": "RekSai",
@@ -1166,7 +1203,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","titanic"]
   },
   "Rengar": {
     "key": "Rengar",
@@ -1199,7 +1237,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","infinityedge"]
   },
   "Sejuani": {
     "key": "Sejuani",
@@ -1230,7 +1269,8 @@
         "armor": 35,
         "magicResist": 25
       }
-    }
+    },
+    "items": ["redbuff","redemption"]
   },
   "Shen": {
     "key": "Shen",
@@ -1258,7 +1298,8 @@
         "armor": 30,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["frozenheart","redemption"]
   },
   "Shyvana": {
     "key": "Shyvana",
@@ -1290,7 +1331,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","phantomdancer"]
   },
   "Swain": {
     "key": "Swain",
@@ -1323,7 +1365,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["morellos","deathcap"]
   },
   "Tristana": {
     "key": "Tristana",
@@ -1354,7 +1397,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","rapidfirecannon"]
   },
   "Varus": {
     "key": "Varus",
@@ -1385,7 +1429,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["ludens","seraphs"]
   },
   "Vayne": {
     "key": "Vayne",
@@ -1413,7 +1458,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","rapidfirecannon"]
   },
   "Veigar": {
     "key": "Veigar",
@@ -1441,7 +1487,8 @@
         "armor": 20,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["ludens","deathcap"]
   },
   "Volibear": {
     "key": "Volibear",
@@ -1473,7 +1520,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["statikkshiv","titanichydra"]
   },
   "Warwick": {
     "key": "Warwick",
@@ -1505,7 +1553,8 @@
         "armor": 30,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["phantomdancer","titanichydra"]
   },
   "Yasuo": {
     "key": "Yasuo",
@@ -1538,7 +1587,8 @@
         "armor": 35,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["rageblade","phantomdancer"]
   },
   "Zed": {
     "key": "Zed",
@@ -1569,6 +1619,8 @@
         "armor": 25,
         "magicResist": 20
       }
-    }
+    },
+    "items": ["infinityedge","swordofthedivine"]
   }
+  
 }
